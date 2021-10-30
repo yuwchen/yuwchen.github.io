@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 #subtitle: Yu-Wen Chen 
 #subtitle: This is where I will tell my friends way too much about me ..
 #cover-img: /assets/img/path.jpg
