@@ -9,7 +9,7 @@ layout: page
 ---
 
 <br />
-<img src="/assets/img/thumb.png" align="left" width="200px" style="vertical-align:middle;margin:0px 30px 50px 0px" />
+<img src="/assets/img/thumb.png" align="left" width="200px" style="vertical-align:middle;margin:0px 30px 30px 0px" />
 <h2>Yu-Wen Chen (陳郁文)</h2><br />
 Research assistant,<br />
 Biomedical Acoustic Signal Processing Lab (Bio-ASP Lab),<br />
@@ -19,7 +19,6 @@ Academia Sinica<br />
 <br clear="left"/>
 
 Hello! I am Yu-Wen Chen.<br />
-<br />
 <div style="text-align: justify"> 
 I currently work as a research assistant in <a href="https://bio-asplab.citi.sinica.edu.tw/">Bio-ASP Lab</a>, Academia Sinica, where I am conducting research with Professor <a href="https://www.citi.sinica.edu.tw/pages/yu.tsao/index_en.html">Yu Tsao</a>.
 Before joining Bio-ASP Lab, I earned my master’s degree at National Taiwan University (NTU) under the guidance of Professor <a href="https://www.ee.ntu.edu.tw/profile1.php?teacher_id=901166">Tian-Li Yu</a>. Prior to NTU, I received B.S. in EE from National Cheng Kung University. <br />
@@ -34,8 +33,5 @@ My primary research interests lie in the area of speech processing, multimodal l
 *
 
 <h4>Conference Papers</h4>
-<div style="text-align: justify"> 
 * <b>Y.-W. Chen</b>, K.-H. Hung, S.-Y. Chuang, J. Sherman, X. Lu, and Y. Tsao, “A study of incorporating articulatory movement information in speech enhancement,” in Proc. EUSIPCO 2021. <br />
 * <b>Y.-W. Chen</b>, K.-H. Hung, S.-Y. Chuang, J. Sherman, W.-C. Huang, X. Lu, and Y. Tsao, “EMA2S: An end-to-end multimodal articulatory-to-speech system,” in Proc. ISCAS 2021. <br />
-
-</div>
