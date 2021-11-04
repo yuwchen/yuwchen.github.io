@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flake it till you make it
+title: Flake 
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: https://yuwchen.github.io/assets/img/path.jpg
 thumbnail-img: https://yuwchen.github.io/assets/img/thumb.png
