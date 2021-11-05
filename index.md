@@ -9,7 +9,7 @@ layout: page
 ---
 
 <br />
-<img src="/assets/img/private/photo.png" align="left" width="200px" style="vertical-align:middle;margin:0px 30px 0px 0px" />
+<img src="/assets/img/private/IMG_5505.png" align="left" width="200px" style="vertical-align:middle;margin:0px 30px 0px 0px" />
 <h2>Yu-Wen Chen (陳郁文)</h2><br />
 Research assistant,<br />
 Biomedical Acoustic Signal Processing Lab (Bio-ASP Lab),<br />
