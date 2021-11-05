@@ -9,13 +9,11 @@ layout: page
 ---
 
 <br />
-<img src="/assets/img/thumb.png" align="left" width="200px" style="vertical-align:middle;margin:0px 30px 5px 0px" />
+<img src="/assets/img/private/photo.png" align="left" width="200px" style="vertical-align:middle;margin:0px 30px 0px 0px" />
 <h2>Yu-Wen Chen (陳郁文)</h2><br />
 Research assistant,<br />
 Biomedical Acoustic Signal Processing Lab (Bio-ASP Lab),<br />
 Academia Sinica<br />
-
-
 <br clear="left"/>
 
 Hello! I am Yu-Wen Chen.<br />
@@ -29,9 +27,9 @@ My primary research interests lie in the area of speech processing, multimodal l
 <h3>Publications</h3>
 
 <h4>Preprints</h4>
-* <b>Y.-W. Chen</b> and Y. Tsao, “INQSS: a speech intelligibility as- sessment model using a multi-task learning network,” arXiv preprint arXiv:2111.02585. <br />
-* <b>Y.-W.Chen</b>,K.-H.Hung,Y.-J.Li,A.C.-F.Kang,Y.-H.Lai,K.- C. Liu, S.-W. Fu, S.-S. Wang, and Y. Tsao, “Citisen: A deep learning-based speech signal-processing mobile application,” arXiv preprint arXiv:2008.09264, 2020. <br />
-* B.-H. Lai, H.-P. Hsieh, Chang, and <b>Y.-W. Chen</b>, “An explain- able multi-performances predictor for recommending deployed locations of new bank branches.” <br />
+* <b>Y.-W. Chen</b> and Y. Tsao, “INQSS: a speech intelligibility assessment model using a multi-task learning network,” arXiv preprint arXiv:2111.02585. <br />
+* <b>Y.-W. Chen </b>,K.-H. Hung, Y.-J. Li, A.C.-F. Kang, Y.-H. Lai, K.- C. Liu, S.-W. Fu, S.-S. Wang, and Y. Tsao, “CITISEN: A deep learning-based speech signal-processing mobile application,” arXiv preprint arXiv:2008.09264, 2020. <br />
+* B.-H. Lai, H.-P. Hsieh, Chang, and <b>Y.-W. Chen</b>, “An explainable multi-performances predictor for recommending deployed locations of new bank branches.” <br />
   
 <h4>Conference Papers</h4>
 * <b>Y.-W. Chen</b>, K.-H. Hung, S.-Y. Chuang, J. Sherman, X. Lu, and Y. Tsao, “A study of incorporating articulatory movement information in speech enhancement,” in Proc. EUSIPCO 2021. <br />
