@@ -17,7 +17,7 @@ author: Yu-Wen Chen
 
 navbar-links:
   Blog: "blog"
-  Resume / CV: "yuwen_CV.pdf"
+  Resume / CV: "/assets/img/yuwen_cv.pdf"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
