@@ -34,5 +34,5 @@ My primary research interests lie in the area of speech processing, multimodal l
 <h4>Conference Papers</h4>
 * <b>Y.-W. Chen</b>, K.-H. Hung, S.-Y. Chuang, J. Sherman, X. Lu, and Y. Tsao, “A study of incorporating articulatory movement information in speech enhancement,” in Proc. EUSIPCO 2021. <a href="https://arxiv.org/pdf/2011.01691.pdf">[pdf]</a> <br />
 * <b>Y.-W. Chen</b>, K.-H. Hung, S.-Y. Chuang, J. Sherman, W.-C. Huang, X. Lu, and Y. Tsao, “EMA2S: An end-to-end multimodal articulatory-to-speech system,” in Proc. ISCAS 2021. <a href="https://arxiv.org/pdf/2102.03786.pdf">[pdf]</a>  <br />
-
+<br />
 See this <a href="https://yuwchen.github.io/blog/">Blog</a> for more details. 
