@@ -28,7 +28,7 @@ My primary research interests lie in the area of speech processing, multimodal l
 
 <h4>Preprints</h4>
 * <b>Y.-W. Chen</b> and Y. Tsao, “INQSS: a speech intelligibility assessment model using a multi-task learning network,” arXiv preprint arXiv:2111.02585. <a href="https://arxiv.org/pdf/2111.02585.pdf">[pdf]</a> <br />
-* <b>Y.-W. Chen </b>,K.-H. Hung, Y.-J. Li, A.C.-F. Kang, Y.-H. Lai, K.- C. Liu, S.-W. Fu, S.-S. Wang, and Y. Tsao, “CITISEN: A deep learning-based speech signal-processing mobile application,” arXiv preprint arXiv:2008.09264, 2020. <a href="https://arxiv.org/pdf/2008.09264.pdf">[pdf]</a> <br />
+* <b>Y.-W. Chen</b>, K.-H. Hung, Y.-J. Li, A.C.-F. Kang, Y.-H. Lai, K.- C. Liu, S.-W. Fu, S.-S. Wang, and Y. Tsao, “CITISEN: A deep learning-based speech signal-processing mobile application,” arXiv preprint arXiv:2008.09264, 2020. <a href="https://arxiv.org/pdf/2008.09264.pdf">[pdf]</a> <br />
 * H.-P. Hsieh, B.-H. Lai, <b>Y.-W. Chen</b>, and Y.-E Chang, “An explainable multi-performances predictor for recommending deployed locations of new bank branches.” <br /> 
   
 <h4>Conference Papers</h4>
