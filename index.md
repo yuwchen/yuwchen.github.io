@@ -16,7 +16,6 @@ Department of Computer sciences,<br />
 Columbia University<br />
 <br clear="left"/>
 
-<br />
 Hello! I am Yu-Wen Chen.  
 <div style="text-align: justify"> 
 
