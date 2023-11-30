@@ -22,7 +22,7 @@ Hello! I am Yu-Wen Chen.
 I am a second-year Ph.D. student in the <a href="https://www.cs.columbia.edu/areas/speech/">Speech Lab</a> at Columbia University, under the guidance of Professor <a href="https://www.cs.columbia.edu/~julia/">Julia Hirschberg</a>. My previous research includes speech pronunciation assessment, speech quality assessment, and speech enhancement. Currently, I am interested in medical-related tasks such as assessing patients' health conditions based on their voice. In general, my research interests focus on the speech processing tasks that can make human life more convenient and productive.       
 
 <br />
-Before joining the Speech Lab, I worked as a research assistant in the <a href="https://bio-asplab.citi.sinica.edu.tw/">Bio-ASP Lab</a>, Academia Sinica, where I am conducting research with Professor <a href="https://www.citi.sinica.edu.tw/pages/yu.tsao/index_en.html">Yu Tsao</a>. Prior to Bio-ASP Lab, I earned my master’s degree at National Taiwan University (NTU) under the guidance of Professor <a href="https://www.ee.ntu.edu.tw/profile1.php?teacher_id=901166">Tian-Li Yu</a>, and my bachelor's degree at National Cheng Kung University. 
+Before joining the Speech Lab, I worked as a research assistant in the <a href="https://bio-asplab.citi.sinica.edu.tw/">Bio-ASP Lab</a>, Academia Sinica, where I am conducting research with Professor <a href="https://www.citi.sinica.edu.tw/pages/yu.tsao/index_en.html">Yu Tsao</a>. Prior to Bio-ASP Lab, I earned my master’s degree at National Taiwan University under the guidance of Professor <a href="https://www.ee.ntu.edu.tw/profile1.php?teacher_id=901166">Tian-Li Yu</a>, and my bachelor's degree at National Cheng Kung University. 
 
 <br />
 
@@ -32,8 +32,8 @@ Before joining the Speech Lab, I worked as a research assistant in the <a href="
 
 <h4>Preprints</h4>
 
-* <b>Chen, Y. W.</b>, Yu, Z., & Hirschberg, J. (2023). MultiPA: a multi-task speech pronunciation assessment system for a closed and open response scenario. arXiv preprint arXiv:2308.12490. <a href="https://arxiv.org/abs/2301.04120">[pdf]</a> <a href="https://github.com/yuwchen/MultiPA">[Github]</a><br />
-* <b>Chen, Y. W.</b>, Hirschberg, J., & Tsao, Y. (2023). Noise robust speech emotion recognition with signal-to-noise ratio adapting speech enhancement. arXiv preprint arXiv:2309.01164. <a href="https://arxiv.org/abs/2309.01164">[pdf]</a> <a href="https://github.com/yuwchen/NRSER">[Github]</a><br />
+* <b>Chen, Y. W.</b>, Yu, Z., & Hirschberg, J. (2023). <b>MultiPA: a multi-task speech pronunciation assessment system for a closed and open response scenario.</b>, arXiv preprint arXiv:2308.12490. <a href="https://arxiv.org/abs/2301.04120">[pdf]</a> <a href="https://github.com/yuwchen/MultiPA">[Github]</a><br />
+* <b>Chen, Y. W.</b>, Hirschberg, J., & Tsao, Y. (2023). <b>Noise robust speech emotion recognition with signal-to-noise ratio adapting speech enhancement.</b>, arXiv preprint arXiv:2309.01164. <a href="https://arxiv.org/abs/2309.01164">[pdf]</a> <a href="https://github.com/yuwchen/NRSER">[Github]</a><br />
   
 <h4>Conference Papers</h4>
 
