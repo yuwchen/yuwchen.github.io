@@ -17,7 +17,7 @@ Columbia University<br />
 <br clear="left"/>
 
 <br />
-Hello! I am Yu-Wen Chen.<br />
+Hello! I am Yu-Wen Chen.  
 <div style="text-align: justify"> 
 
 I am a second-year Ph.D. student in the <a href="https://www.cs.columbia.edu/areas/speech/">Speech Lab</a> at Columbia University, under the guidance of Professor <a href="https://www.cs.columbia.edu/~julia/">Julia Hirschberg</a>. My previous research includes speech pronunciation assessment, speech quality assessment, and speech enhancement. Currently, I am interested in medical-related tasks such as assessing patients' health conditions based on their voice. In general, my research interests focus on the speech processing tasks that can make human life more convenient and productive.       
