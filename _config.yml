@@ -17,7 +17,7 @@ author: Yu-Wen Chen
 
 navbar-links:
   Blog: "blog"
-  Resume / CV: "https://github.com/yuwchen/yuwchen.github.io/blob/master/CV/CV_Yu-WenChen_2310.pdf"
+  Resume / CV: "./CV/CV_Yu-WenChen_2310.pdf"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
@@ -42,7 +42,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "kuluychen@gmail.com"
+  email: "yc4093@columbia.edu"
   github: yuwchen
   linkedin: yuwenchen
 #  facebook: deanattali
