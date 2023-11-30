@@ -37,12 +37,14 @@ Before joining the Speech Lab, I worked as a research assistant in the <a href="
   
 <h4>Conference Papers</h4>
 
-* <b>Chen, Y. W.</b>, Wang, H. M., & Tsao, Y. (2023) <b>“BASPRO: A balanced script producer for speech corpus collection based on the genetic algorithm.”</b> APSIPA Transactions on Signal and Information Processing: Vol. 12: No. 3. <a href="https://arxiv.org/abs/2301.04120">[pdf]</a> 
-<a href="https://github.com/yuwchen/BASPRO">[Github]</a> <br />
 * <b>Chen, Y. W.</b>, & Tsao, Y. (2022). <b>“InQSS: a speech intelligibility and quality assessment model using a multi-task learning network.”</b> INTERSPEECH, 3088-3092. <a href="https://arxiv.org/pdf/2111.02585.pdf">[pdf]</a> <a href="https://github.com/yuwchen/InQSS">[Github]</a> <br /> 
-* <b>Chen, Y. W.</b>, Hung, K. H., Li, Y. J., Kang, A. C. F., Lai, Y. H., Liu, K. C., ... & Tsao, Y. (2022) <b>“CITISEN: a deep learning-based speech signal-processing mobile application.”</b> IEEE Access, 10, 46082-46099. <a href="https://github.com/yuwchen/CITISEN">[pdf]</a> <a href="https://github.com/yuwchen/BASPRO">[Github]</a> <br />
 * <b>Chen, Y. W.</b>., Hung, K. H., Chuang, S. Y., Sherman, J., Huang, W. C., Lu, X., & Tsao, Y. (2021) <b>“EMA2S: An end-to-end multimodal articulatory-to-speech system.”</b> IEEE International Symposium on Circuits and Systems (ISCAS), 1-5.  <a href="https://arxiv.org/pdf/2102.03786.pdf">[pdf]</a> <br />
 * <b>Chen, Y. W.</b>, Hung, K. H., Chuang, S. Y., Sherman, J., Lu, X., & Tsao, Y. (2021) <b>“A study of incorporating articulatory movement information in speech enhancement.”</b> IEEE European Signal Processing Conference (EUSIPCO), 496-500. <a href="https://arxiv.org/pdf/2011.01691.pdf">[pdf]</a>
+
+<h4>Journal Papers</h4>
+
+* <b>Chen, Y. W.</b>, Wang, H. M., & Tsao, Y. (2023) <b>“BASPRO: A balanced script producer for speech corpus collection based on the genetic algorithm.”</b> APSIPA Transactions on Signal and Information Processing: Vol. 12: No. 3. <a href="https://arxiv.org/abs/2301.04120">[pdf]</a> <a href="https://github.com/yuwchen/BASPRO">[Github]</a> <br />
+* <b>Chen, Y. W.</b>, Hung, K. H., Li, Y. J., Kang, A. C. F., Lai, Y. H., Liu, K. C., ... & Tsao, Y. (2022) <b>“CITISEN: a deep learning-based speech signal-processing mobile application.”</b> IEEE Access, 10, 46082-46099. <a href="https://github.com/yuwchen/CITISEN">[pdf]</a> <a href="https://github.com/yuwchen/BASPRO">[Github]</a> <br />
 
 <br />
 See <a href="https://yuwchen.github.io/blog/">Blog</a> for more details :)
