@@ -30,9 +30,13 @@ Before joining the Speech Lab, I worked as a research assistant in the <a href="
 
 <h3>Publications</h3>
 
+[Google sholar](https://scholar.google.com.tw/citations?user=8r7SRL0AAAAJ&hl=e![image](https://github.com/yuwchen/yuwchen.github.io/assets/14309284/ce2d264f-2b8d-45ad-a419-5d5f7074b399)
+) 
+
 <h4>Preprints</h4>
 
-* <b>Chen, Y. W.</b>, Yu, Z., & Hirschberg, J. (2023). <b>MultiPA: a multi-task speech pronunciation assessment system for a closed and open response scenario.</b>, arXiv preprint arXiv:2308.12490. <a href="https://arxiv.org/abs/2301.04120">[pdf]</a> <a href="https://github.com/yuwchen/MultiPA">[Github]</a><br />
+* <b>Chen, Y. W.</b>, Yu, Z., & Hirschberg, J. (2023). <b>MultiPA: a multi-task speech pronunciation assessment model for open response scenarios
+</b>, arXiv preprint arXiv:2308.12490. <a href="https://arxiv.org/abs/2301.04120">[pdf]</a> <a href="https://github.com/yuwchen/MultiPA">[Github]</a><br />
 * <b>Chen, Y. W.</b>, Hirschberg, J., & Tsao, Y. (2023). <b>Noise robust speech emotion recognition with signal-to-noise ratio adapting speech enhancement.</b>, arXiv preprint arXiv:2309.01164. <a href="https://arxiv.org/abs/2309.01164">[pdf]</a> <a href="https://github.com/yuwchen/NRSER">[Github]</a><br />
   
 <h4>Conference Papers</h4>
